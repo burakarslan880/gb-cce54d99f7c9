@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Günaydın Burak</title>
+<link>https://burakarslan880.github.io/gb-cce54d99f7c9/</link>
+<atom:link href="https://burakarslan880.github.io/gb-cce54d99f7c9/feed.xml" rel="self" type="application/rss+xml"/>
+<language>tr</language>
+<description>Burak için her sabah 07:00'de hazırlanan kişisel bülten: Berlin hava durumu, 5 Almanca kelime, piyasa bülteni özeti ve önemli haberler. Hafta sonları Berlin'de sergi ve etkinlik önerileri.</description>
+<lastBuildDate>Thu, 19 Nov 2026 08:51:46 +0000</lastBuildDate>
+<itunes:author>Grok Bot</itunes:author>
+<itunes:summary>Burak için her sabah 07:00'de hazırlanan kişisel bülten: Berlin hava durumu, 5 Almanca kelime, piyasa bülteni özeti ve önemli haberler. Hafta sonları Berlin'de sergi ve etkinlik önerileri.</itunes:summary>
+<itunes:image href="https://burakarslan880.github.io/gb-cce54d99f7c9/cover.jpg"/>
+<image><url>https://burakarslan880.github.io/gb-cce54d99f7c9/cover.jpg</url><title>Günaydın Burak</title><link>https://burakarslan880.github.io/gb-cce54d99f7c9/</link></image>
+<itunes:category text="News"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:block>Yes</itunes:block>
+<itunes:owner><itunes:name>Burak Arslan</itunes:name></itunes:owner>
+<item>
+<title>19 Kasım Perşembe</title>
+<description>Berlin: kapalı, öğleden sonra yağmur (6-10°C). Kelimeler: mit, sich verloben, die Stärke, der Gast, die Freundschaft. Hazine Bülteni 19/11: Anthropic halka arzı, güçlü dolar ve Fed, emtia düşüşü, Türkiye piyasaları. Haberler: Berlin'de Ukrayna zirvesi, Stromsteuer indirimi, Commerzbank-UniCredit uzlaşısı.</description>
+<itunes:summary>Berlin: kapalı, öğleden sonra yağmur (6-10°C). Kelimeler: mit, sich verloben, die Stärke, der Gast, die Freundschaft. Hazine Bülteni 19/11: Anthropic halka arzı, güçlü dolar ve Fed, emtia düşüşü, Türkiye piyasaları. Haberler: Berlin'de Ukrayna zirvesi, Stromsteuer indirimi, Commerzbank-UniCredit uzlaşısı.</itunes:summary>
+<enclosure url="https://burakarslan880.github.io/gb-cce54d99f7c9/episodes/2026-11-19-2c6d5518.mp3" length="3044510" type="audio/mpeg"/>
+<guid isPermaLink="false">gunaydin-burak-2026-11-19</guid>
+<pubDate>Thu, 19 Nov 2026 06:45:00 +0100</pubDate>
+<itunes:duration>00:06:18</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
+</rss>
