@@ -6,7 +6,7 @@
 <atom:link href="https://burakarslan880.github.io/gb-cce54d99f7c9/feed.xml" rel="self" type="application/rss+xml"/>
 <language>tr</language>
 <description>Burak için her sabah 07:00'de hazırlanan kişisel bülten: Berlin hava durumu, 5 Almanca kelime, piyasa bülteni özeti ve önemli haberler. Hafta sonları Berlin'de sergi ve etkinlik önerileri.</description>
-<lastBuildDate>Fri, 20 Nov 2026 05:32:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 05:27:54 +0000</lastBuildDate>
 <itunes:author>Grok Bot</itunes:author>
 <itunes:summary>Burak için her sabah 07:00'de hazırlanan kişisel bülten: Berlin hava durumu, 5 Almanca kelime, piyasa bülteni özeti ve önemli haberler. Hafta sonları Berlin'de sergi ve etkinlik önerileri.</itunes:summary>
 <itunes:image href="https://burakarslan880.github.io/gb-cce54d99f7c9/cover.jpg"/>
@@ -24,6 +24,17 @@
 <guid isPermaLink="false">gunaydin-burak-2026-11-19</guid>
 <pubDate>Thu, 19 Nov 2026 06:45:00 +0100</pubDate>
 <itunes:duration>00:06:18</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>21 Kasım Cumartesi</title>
+<description>Hava, 5 Almanca kelime (sich bedanken, sich bewerben, die Liebe, die Schwäche, die Feier), C/O Berlin'de Carrie Mae Weems ve günün haberi.</description>
+<itunes:summary>Hava, 5 Almanca kelime (sich bedanken, sich bewerben, die Liebe, die Schwäche, die Feier), C/O Berlin'de Carrie Mae Weems ve günün haberi.</itunes:summary>
+<enclosure url="https://burakarslan880.github.io/gb-cce54d99f7c9/episodes/2026-11-21-a18acfdc.mp3" length="1312698" type="audio/mpeg"/>
+<guid isPermaLink="false">gunaydin-burak-2026-11-21</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:00 +0100</pubDate>
+<itunes:duration>00:02:42</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:explicit>false</itunes:explicit>
 </item>
