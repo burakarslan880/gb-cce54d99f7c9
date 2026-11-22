@@ -6,7 +6,7 @@
 <atom:link href="https://burakarslan880.github.io/gb-cce54d99f7c9/feed.xml" rel="self" type="application/rss+xml"/>
 <language>tr</language>
 <description>Burak için her sabah 07:00'de hazırlanan kişisel bülten: Berlin hava durumu, 5 Almanca kelime, piyasa bülteni özeti ve önemli haberler. Hafta sonları Berlin'de sergi ve etkinlik önerileri.</description>
-<lastBuildDate>Sat, 21 Nov 2026 05:27:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 05:28:33 +0000</lastBuildDate>
 <itunes:author>Grok Bot</itunes:author>
 <itunes:summary>Burak için her sabah 07:00'de hazırlanan kişisel bülten: Berlin hava durumu, 5 Almanca kelime, piyasa bülteni özeti ve önemli haberler. Hafta sonları Berlin'de sergi ve etkinlik önerileri.</itunes:summary>
 <itunes:image href="https://burakarslan880.github.io/gb-cce54d99f7c9/cover.jpg"/>
@@ -24,6 +24,17 @@
 <guid isPermaLink="false">gunaydin-burak-2026-11-19</guid>
 <pubDate>Thu, 19 Nov 2026 06:45:00 +0100</pubDate>
 <itunes:duration>00:06:18</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>22 Kasım Pazar</title>
+<description>Hava, 5 Almanca kelime, f³'te Street Photography sergisi ve iklim konferansı</description>
+<itunes:summary>Hava, 5 Almanca kelime, f³'te Street Photography sergisi ve iklim konferansı</itunes:summary>
+<enclosure url="https://burakarslan880.github.io/gb-cce54d99f7c9/episodes/2026-11-22-4ce7889e.mp3" length="1459394" type="audio/mpeg"/>
+<guid isPermaLink="false">gunaydin-burak-2026-11-22</guid>
+<pubDate>Sun, 22 Nov 2026 06:45:00 +0100</pubDate>
+<itunes:duration>00:03:00</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:explicit>false</itunes:explicit>
 </item>
